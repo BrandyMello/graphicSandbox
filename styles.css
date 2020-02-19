@@ -1,0 +1,29 @@
+header {
+  background: url("./images/dreamCoinSwirl.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-top: 0;
+}
+
+h1 {
+  margin-left: 20%;
+}
+
+.title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 2.7em;
+  font-weight: 600;
+}
+
+.dream {
+  position: absolute;
+  left: 43px;
+  top: 15px;
+}
+
+.c {
+  font-size: 2.2em;
+  font-weight: 400;
+}
